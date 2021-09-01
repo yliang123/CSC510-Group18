@@ -1,3 +1,0 @@
-# Use command "pip-compile --output-file=- > requirements.txt" or "python -m piptools compile" to generate requirements.txt.
-# You'll probably need "python -m pip install pip-tools" first to have a pip-compile command working.
-pytest
