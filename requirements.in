@@ -2,3 +2,4 @@
 # You'll probably need "python -m pip install pip-tools" first to have a pip-compile command working.
 django
 pandas
+pytest

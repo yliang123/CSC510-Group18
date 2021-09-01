@@ -22,3 +22,4 @@ six==1.16.0
     # via python-dateutil
 sqlparse==0.4.1
     # via django
+pytest==5.4.3
